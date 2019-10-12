@@ -1,0 +1,4 @@
+List pembelajaran kedepan
+  -design
+  -network
+  -programming
